@@ -1,0 +1,5 @@
+{
+  "name": "Yammii POS AI Assistant",
+  "description": "A Chinese-language technical support AI assistant for Yammii POS systems using Gemini API with RAG capabilities.",
+  "requestFramePermissions": []
+}
